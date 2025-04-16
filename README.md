@@ -36,5 +36,5 @@ npm install
 # 3. Run the App
 npm start
 
-Visit http://localhost:3000 in your browser to use StaffSync!
+Visit http://localhost:5173 in your browser to use StaffSync!
 
