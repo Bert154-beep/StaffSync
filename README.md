@@ -26,7 +26,7 @@ Tailwind CSS
 
 # 🚀 Getting Started
 # 1. Clone the Repository:-
-git clone https://github.com/your-username/staffsync.git
+git clone https://github.com/Bert154-beep/staffsync.git
 
 cd staffsync
 
